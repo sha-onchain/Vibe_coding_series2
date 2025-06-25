@@ -232,4 +232,10 @@ npx blueprint run testGetCampaignDetails
 - Optimized message handling
 - Automatic gas refunds for failed operations
 
+## Contributor
+
+- **TON Wallet Address:** `UQDX_I3Q4raspjIuC9alFZE9dsYP8zOSEN0ZlP1iWB-om0hm`
+- **Medium Blog:** [Smart Contracts for Crowdfunding in Indian Style](https://medium.com/@harshsharmaa990/smart-contracts-for-crowdfunding-in-indian-style-3cc8e39d63a1)
+- **Twitter:** [@harsh_sharmaa9](https://x.com/harsh_sharmaa9/status/1937920019255758963)
+
 
