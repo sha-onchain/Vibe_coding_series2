@@ -6,7 +6,8 @@
 1. **Write a Medium Article**
    - Summarize what you learned from the live session
    - Write an article explaining CrowdFunding in TON Ecosystem explaining concept,contract, how to write it, how it is different from Ethereum Ecosystem (Solidity)
-   - Explain it like teaching it to a 5 year old 
+   - Explain it like teaching it to a 5 year old
+   - TOP ARTCILES WILL GET A SHARE OF $300 PRIZE POOL and chance to vibe code with us 
 
 2. **Fork the Repository & Submit a PR**
    - Fork this repository
@@ -20,6 +21,7 @@
      - [@sha_onchain](https://twitter.com/sha_onchain)
      - [@SakshamBhugra](https://twitter.com/SakshamBhugra)
      - [@itsNikku876](https://twitter.com/itsNikku876)
+
 
 ---
 
