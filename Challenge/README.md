@@ -1,6 +1,38 @@
 # Live Coding Session #2:  
-## Building a Crowdfund Contract in Solidity & Tact (TON)
+---
 
+## 🚀 Challenge: Show What You Learned!
+
+1. **Write a Medium Article**
+   - Summarize what you learned from the live session
+   - Write an article explaining CrowdFunding in TON Ecosystem explaining concept,contract, how to write it, how it is different from Ethereum Ecosystem (Solidity)
+   - Explain it like teaching it to a 5 year old 
+
+2. **Fork the Repository & Submit a PR**
+   - Fork this repository
+   - Add your Medium article link and wallet address in a new file or in the PR description
+   - Follow the PR template in `.github/PULL_REQUEST_TEMPLATE.md`
+
+3. **Spread the Word on X (formerly Twitter)**
+   - Share your article and tag:
+     - [@ton_blockchain](https://twitter.com/ton_blockchain)
+     - [@TONSSEA](https://twitter.com/TONSSEA)
+     - [@sha_onchain](https://twitter.com/sha_onchain)
+     - [@SakshamBhugra](https://twitter.com/SakshamBhugra)
+     - [@itsNikku876](https://twitter.com/itsNikku876)
+
+---
+
+## Resources for devs
+
+  - TON Blueprint - https://github.com/ton-org/blueprint
+  - Tact langugage docs - https://docs.tact-lang.org/book/learn-tact-in-y-minutes
+  - TON SDKs - https://docs.ton.org/v3/guidelines/dapps/apis-sdks/sdk
+  - TON Docs - https://ton.org/docs
+
+---
+
+## Building a Crowdfund Contract in Solidity & Tact (TON)
 
 Welcome to the summary and challenge for **Live Coding Session #2**! In this session, we explored how to build a decentralized crowdfunding smart contract—first in Solidity (for EVM chains like Ethereum), and then in Tact (for the TON blockchain). This README will walk you through the key learnings, compare the two languages, and present a challenge for you to complete.
 
@@ -69,28 +101,6 @@ We implemented a **Crowdfund** contract that allows users to:
 - How to handle pledges, claims, and campaign lifecycle in both environments
 - The importance of gas optimization and security checks
 
----
 
-## 🚀 Challenge: Show What You Learned!
-
-1. **Write a Medium Article**
-   - Summarize what you learned from the live session
-   - Compare Solidity and Tact for smart contract development
-   - Share your experience and insights
-
-2. **Fork the Repository & Submit a PR**
-   - Fork this repository
-   - Add your Medium article link and wallet address in a new file or in the PR description
-   - Follow the PR template in `.github/PULL_REQUEST_TEMPLATE.md`
-
-3. **Spread the Word on X (formerly Twitter)**
-   - Share your article and tag:
-     - [@ton_blockchain](https://twitter.com/ton_blockchain)
-     - [@TONSSEA](https://twitter.com/TONSSEA)
-     - [@sha_onchain](https://twitter.com/sha_onchain)
-     - [@SakshamBhugra](https://twitter.com/SakshamBhugra)
-     - [@itsNikku876](https://twitter.com/itsNikku876)
-
----
 
 Happy building and learning! 🚀
