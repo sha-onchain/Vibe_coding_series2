@@ -5,7 +5,7 @@
 
 1. **Write a Medium Article**
    - Summarize what you learned from the live session
-   - Write an article explaining CrowdFunding in TON Ecosystem explaining concept,contract, how to write it, how it is different from Ethereum Ecosystem (Solidity)
+   - Write an article explaining CrowdFunding in TON Ecosystem explaining concept,contract, how to write it, how it is different from Ethereum Ecosystem (Solidity) *Note - Don’t just define the concept of crowdfunding. Instead, focus on explaining the structure of the smart contract in detail—covering each step,function used in smart contract, and how it differs from an Ethereum (Solidity-based) contract.
    - Explain it like teaching it to a 5 year old
    - TOP ARTCILES WILL GET A SHARE OF $300 PRIZE POOL and chance to vibe code with us 
 
