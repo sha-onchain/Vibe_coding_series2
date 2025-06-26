@@ -18,7 +18,7 @@ labels: ["crowdfund", "submission"]
 UQBmlXX9WacFYAWVjFsuRtPT8th7OmhsX32agA35QuFP37pf
 
 **Medium Article URL:**
-https://medium.com/@himanshi1/my-mind-blowing-journey-into-ton-crowdfunding-522fdb841404
+https://medium.com/@himanshi1/how-a-crowdfunding-smart-contract-works-explained-like-youre-5-25a13771739d
 
 **Telegram Username (optional):**
 @rana1himanshi
