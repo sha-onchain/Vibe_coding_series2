@@ -1,7 +1,7 @@
 ---
 name: "CrowdFund PR Submission"
 description: "Submit your pull request for the CrowdFund project. Please ensure you have provided all required information."
-title: "[CrowdFund] TON Ecosystem Crowdfunding Smart Contract Implementation"
+title: "[CrowdFund] TON Ecosystem Crowdfunding Smart Contract"
 labels: ["crowdfund", "submission"]
 ---
 
