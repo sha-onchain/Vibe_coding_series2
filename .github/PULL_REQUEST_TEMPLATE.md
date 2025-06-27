@@ -1,7 +1,7 @@
 ---
 name: "CrowdFund PR Submission"
 description: "Submit your pull request for the CrowdFund project. Please ensure you have provided all required information."
-title: "[CrowdFund] <Your PR Title Here>"
+title: "[CrowdFund] Vibe_coding_series2"
 labels: ["crowdfund", "submission"]
 ---
 
@@ -15,10 +15,10 @@ labels: ["crowdfund", "submission"]
 ## Details
 
 **Wallet Address:**
-<!-- Paste your wallet address here -->
+UQBmlXX9WacFYAWVjFsuRtPT8th7OmhsX32agA35QuFP37pf
 
 **Medium Article URL:**
-<!-- Paste the Medium article URL here -->
+https://medium.com/@himanshi1/how-a-crowdfunding-smart-contract-works-explained-like-youre-5-25a13771739d
 
 **Telegram Username (optional):**
-<!-- Paste your Telegram username here, if you wish -->
+@rana1himanshi
